@@ -1,0 +1,5 @@
+.main-content {
+    background: var(--white);
+    margin-bottom: 30px;
+    box-shadow: 0 2px 4px 0 var(--dark-02), 0 25px 50px 0 var(--dark-01);
+  }

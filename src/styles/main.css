@@ -1,0 +1,11 @@
+/* css files defined for use in the project */
+@import url(abstracts/variables.css);
+
+/* basic css files shared for the whole project */
+@import url(base/index.css);
+
+/* css for components */
+@import url(components/index.css);
+
+/* css for layout */
+@import url(layouts/index.css);

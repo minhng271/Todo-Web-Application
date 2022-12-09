@@ -1,0 +1,16 @@
+.container {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: var(--primary-light);
+    user-select: none;
+    font-size: 14px;
+    font-weight: var(--font-regular);
+    color: var(--normal);
+    margin: 30px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .container {
+      margin: auto;
+      max-width: 550px;
+    }
+  }

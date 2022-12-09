@@ -1,0 +1,33 @@
+:root {
+    /* Color */
+    --primary-light: rgb(245, 245, 245);
+    --primary-dark: rgb(246, 246, 246);
+    --normal: rgb(77, 77, 77);
+    --warning: rgb(255, 0, 0, 0.6);
+    --success: rgb(0, 195, 0);
+  
+    --platinum: rgb(230, 230, 230);
+    --white: rgb(255, 255, 255);
+    --dorado: rgb(85, 85, 85);
+  
+    --metallic-red: rgba(175, 47, 47, 0.2);
+    --metallic-red-light: rgba(187, 11, 11, 0.603);
+    --metallic-red-dark: rgba(175, 47, 47, 0.149);
+  
+    --grey: rgb(191, 191, 191);
+    --grey-dark: rgb(119, 119, 119);
+    --grey-dark-plus: rgb(115, 115, 115);
+    --grey-light: rgb(237, 237, 237);
+  
+    --dark: rgb(0, 0, 0);
+    --dark-01: rgba(0, 0, 0, 0.1);
+    --dark-02: rgba(0, 0, 0, 0.2);
+    --dark-03: rgba(0, 0, 0, 0.03);
+    --dark-003: rgba(0, 0, 0, 0.003);
+  
+    /* Font weight */
+    --font-light: 100;
+    --font-regular: 300;
+    --font-bold: 600;
+    --font-bold-plus: 700;
+  }

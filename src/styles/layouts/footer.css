@@ -1,0 +1,8 @@
+.footer-wrapper {
+    text-align: center;
+    color: var(--grey);
+  }
+  
+  .footer-wrapper .btn-show-login {
+    padding: 10px;
+  }
